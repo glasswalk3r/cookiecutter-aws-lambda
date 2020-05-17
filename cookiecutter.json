@@ -1,0 +1,6 @@
+{
+  "env_name_log_level": "LOG_LEVEL",
+  "env_name_log_format": "LOG_FORMAT",
+  "lambda_handler_name": "lambda_handler",
+  "lambda_name": "fantastic-foobar"
+}
