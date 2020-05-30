@@ -1,6 +1,6 @@
 # cookiecutter-aws-lambda
 
-A [Cookiecutter]https://cookiecutter.readthedocs.io/en/latest/ template to
+A [Cookiecutter](https://cookiecutter.readthedocs.io/en/latest/) template to
 generate boleirplate Python 3 code for an
 [AWS Lambda](https://aws.amazon.com/lambda/?nc1=h_ls).
 
